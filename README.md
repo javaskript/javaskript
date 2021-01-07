@@ -1,6 +1,3 @@
-## Hey 👋, I'm javaskript! <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="300px" />
-
-<br>
 <a href="https://github.com/company/webviso" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -25,13 +22,8 @@
 <a href="https://www.behance.net/webviso" target="_blank">
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>  
-  
 
-<br/>  
-
-## 
-
-<br/>  
+## Hey 👋, I'm javaskript! <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="300px" />
 
 - 🔭 I’m working on [AutoClose Patched](https://github.com/javaskript/autoclose-patched)  
   
