@@ -25,10 +25,10 @@
 
 #
 
-- 🔭 I’m working on [AutoClose Patched](https://github.com/javaskript/autoclose-patched)  
+- 🔭 Currently working on: [AutoClose Patched](https://github.com/javaskript/autoclose-patched)  
   
 
-- 🌱 I’m currently learning C# and Advanced PHP concepts  
+- 🌱 Currently learning: C# and Advanced PHP concepts  
   
 
 - ⚡ Fun fact: I'm very dedicated in all that I do.  
