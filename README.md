@@ -25,7 +25,10 @@
 
 #
 
-<div align="left" style="float:left;">
+<div align="left"> <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="200px" /></div>
+
+<div align="left">
+  
 - 🔭 Currently working on: [AutoClose Patched](https://github.com/javaskript/autoclose-patched)  
   
 
@@ -33,9 +36,8 @@
   
 
 - ⚡ Fun fact: I'm very dedicated in all that I do.  
-</div>
 
-<div align="right"> <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="200px" /></div>
+</div>
 
 <br/>  
 
