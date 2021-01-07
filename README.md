@@ -1,5 +1,6 @@
 ## Hey 👋, I'm javaskript! <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="300px" />
 
+<br>
 <a href="https://github.com/company/webviso" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
