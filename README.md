@@ -32,7 +32,6 @@
 
 <br/>  
 
-
 - 🔭 I’m working on [AutoClose Patched](https://github.com/javaskript/autoclose-patched)  
   
 
