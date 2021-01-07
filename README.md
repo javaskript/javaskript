@@ -25,7 +25,7 @@
 
 #
 
-<div align="left">
+<div align="left" style="float:left;">
 - 🔭 Currently working on: [AutoClose Patched](https://github.com/javaskript/autoclose-patched)  
   
 
