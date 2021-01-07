@@ -99,8 +99,6 @@
 
 </td></tr></table>  
 
-<br/>  
-
-## <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="300px" />
 ----
  
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="200px" />
