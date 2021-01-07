@@ -25,6 +25,8 @@
 
 #
 
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="200px" />
+
 - 🔭 Currently working on: [AutoClose Patched](https://github.com/javaskript/autoclose-patched)  
   
 
@@ -100,5 +102,3 @@
 </td></tr></table>  
 
 ----
- 
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="200px" />
