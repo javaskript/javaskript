@@ -23,11 +23,6 @@
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>  
 
-
-## <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="300px" />
-
-<br />
-
 - 🔭 I’m working on [AutoClose Patched](https://github.com/javaskript/autoclose-patched)  
   
 
@@ -104,5 +99,6 @@
 
 <br/>  
 
+## <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="300px" />
 ----
  
