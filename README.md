@@ -1,6 +1,4 @@
-## Hey 👋, I'm javaskript!  
-
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100px" />
+## Hey 👋, I'm javaskript! <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" width="300px" />
 
 <a href="https://github.com/company/webviso" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -34,7 +32,6 @@
 
 <br/>  
 
-<table><tr><td valign="top" width="50%">
 
 - 🔭 I’m working on [AutoClose Patched](https://github.com/javaskript/autoclose-patched)  
   
@@ -44,15 +41,6 @@
 
 - ⚡ Fun fact: I'm very dedicated in all that I do.  
 
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
 
 <br/>  
 
